@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L48 0L48 48L0 48L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Musically-icon">
+    <path d="M0 0L48 0L48 48L0 48L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M24 4C12.9543 4 4.00003 12.9543 4 23.9999C3.99997 35.0456 12.9542 43.9999 23.9999 44C35.0456 44 43.9999 35.0458 43.9999 24.0001C44 12.9544 35.0458 4.00009 24.0001 4L24 4Z" id="Shape" fill="#FF1744" fill-rule="evenodd" stroke="none" />
+      <path d="M24 32C22.346 32 21 30.654 21 29L21 19C21 18.448 20.551 18 20 18C19.449 18 19 18.448 19 19L19 25C19 26.654 17.654 28 16 28L11 28L11 26L16 26C16.551 26 17 25.552 17 25L17 19C17 17.346 18.346 16 20 16C21.654 16 23 17.346 23 19L23 29C23 29.552 23.449 30 24 30C24.551 30 25 29.552 25 29L25 23C25 21.346 26.346 20 28 20C29.654 20 31 21.346 31 23L31 25C31 25.552 31.449 26 32 26L37 26L37 28L32 28C30.346 28 29 26.654 29 25L29 23C29 22.448 28.551 22 28 22C27.449 22 27 22.448 27 23L27 29C27 30.654 25.654 32 24 32L24 32Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
